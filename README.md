@@ -1,5 +1,5 @@
 # NIK_PYTHON3_CONSOLE_EXAMPLES
-
+/play dangerzone
 >## Создание простейшей консольной программы ##
 >Пример на Python 3
 
